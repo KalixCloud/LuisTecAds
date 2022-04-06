@@ -1,8 +1,8 @@
 {
-    "Conectado":"http://tienda.leonardoservice.org.pe/jhksad/foto1.jpeg",
+    "Conectado":"https://tienda.leonardoservice.org.pe/jhksad/foto1.jpeg",
     "Link":"https://web.facebook.com/MunicipalidadDistritaldDeSanMarcos",
-    "Desconectado":"http://tienda.leonardoservice.org.pe/jhksad/foto1.jpeg",
-    "Banner":"http://tienda.leonardoservice.org.pe/jhksad/banner1.jpeg",
+    "Desconectado":"https://tienda.leonardoservice.org.pe/jhksad/foto1.jpeg",
+    "Banner":"https://tienda.leonardoservice.org.pe/jhksad/banner1.jpeg",
     "BannerLink":"https://web.facebook.com/MunicipalidadDistritaldDeSanMarcos",
-    "Duracion":"1000000"
+    "Duracion":"10000"
 }
